@@ -1,0 +1,16 @@
+{
+   "item.necromancy.example_item": "Example Item",
+   "block.necromancy.example_block": "Example Block",
+
+   "item.necromancy.magic_ring": "Magic Ring",
+   "item.necromancy.protected_bottle": "Protected Bottle",
+   "item.necromancy.soul_bottle": "Soul Bottle",
+   "item.necromancy.soul_shard": "Soul Shard",
+   "item.necromancy.soul_core": "Soul Core",
+
+   "entity.necromancy.wraith": "Wraith",
+   "entity.necromancy.possessed_zombie": "Possessed Zombie",
+   "entity.necromancy.possessed_skeleton": "Possessed Skeleton",
+
+   "creativetab.necromancy_tab": "Necromancy Tab"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "necromancy:soul_shard"
+    }
+  },
+  "pattern": [
+    "## ",
+    "## "
+  ],
+  "result": {
+    "item": "necromancy:soul_core"
+  }
+}
